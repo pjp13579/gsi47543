@@ -10,4 +10,9 @@
     <PackageReference Include="AutoMapper" Version="12.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GSI47543.AD\GSI47543.AD.csproj" />
+    <ProjectReference Include="..\GSI47543.DB\GSI47543.DB.csproj" />
+  </ItemGroup>
+
 </Project>

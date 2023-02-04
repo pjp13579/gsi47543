@@ -10,3 +10,8 @@ C:\Users\paulo\source\repos\GSI47543\DTO\obj\Debug\net6.0\DTO.dll
 C:\Users\paulo\source\repos\GSI47543\DTO\obj\Debug\net6.0\refint\DTO.dll
 C:\Users\paulo\source\repos\GSI47543\DTO\obj\Debug\net6.0\DTO.pdb
 C:\Users\paulo\source\repos\GSI47543\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\paulo\source\repos\GSI47543\DTO\bin\Debug\net6.0\GSI47543.DB.dll
+C:\Users\paulo\source\repos\GSI47543\DTO\bin\Debug\net6.0\GSI47543.DB.pdb
+C:\Users\paulo\source\repos\GSI47543\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\paulo\source\repos\GSI47543\DTO\bin\Debug\net6.0\GSI47543.AD.dll
+C:\Users\paulo\source\repos\GSI47543\DTO\bin\Debug\net6.0\GSI47543.AD.pdb

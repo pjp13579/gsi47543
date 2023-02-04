@@ -1156,7 +1156,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "AutoMapper": "12.0.0"
+          "AutoMapper": "12.0.0",
+          "GSI47543.AD": "1.0.0",
+          "GSI47543.DB": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DTO.dll": {}

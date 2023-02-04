@@ -91,3 +91,6 @@ C:\Users\paulo\source\repos\GSI47543\GSI47543\obj\Debug\net6.0\GSI47543.genrunti
 C:\Users\paulo\source\repos\GSI47543\GSI47543\obj\Debug\net6.0\ref\GSI47543.dll
 C:\Users\paulo\source\repos\GSI47543\GSI47543\bin\Debug\net6.0\DTO.dll
 C:\Users\paulo\source\repos\GSI47543\GSI47543\bin\Debug\net6.0\DTO.pdb
+C:\Users\paulo\source\repos\GSI47543\GSI47543\bin\Debug\net6.0\libman.json
+C:\Users\paulo\source\repos\GSI47543\GSI47543\bin\Debug\net6.0\GSI47543.xml
+C:\Users\paulo\source\repos\GSI47543\GSI47543\obj\Debug\net6.0\GSI47543.xml

@@ -7,7 +7,7 @@ namespace GSI47543.AD
     {
         public static List<User> GetUsers()
         {
-            using (var root = new System.DirectoryServices.DirectoryEntry($"LDAP://192.168.50.240"))
+            using (var root = new System.DirectoryServices.DirectoryEntry($"LDAP://192.168.1.38"))
             {
                 root.Username = "Administrator";
                 root.Password = "Tpsitpsi1";

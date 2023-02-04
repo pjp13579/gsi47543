@@ -1,0 +1,12 @@
+C:\Users\paulo\source\repos\GSI47543\GSI47543.DB\bin\Release\net6.0\GSI47543.DB.deps.json
+C:\Users\paulo\source\repos\GSI47543\GSI47543.DB\bin\Release\net6.0\GSI47543.DB.dll
+C:\Users\paulo\source\repos\GSI47543\GSI47543.DB\bin\Release\net6.0\GSI47543.DB.pdb
+C:\Users\paulo\source\repos\GSI47543\GSI47543.DB\obj\Release\net6.0\GSI47543.DB.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\GSI47543\GSI47543.DB\obj\Release\net6.0\GSI47543.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\GSI47543\GSI47543.DB\obj\Release\net6.0\GSI47543.DB.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\GSI47543\GSI47543.DB\obj\Release\net6.0\GSI47543.DB.AssemblyInfo.cs
+C:\Users\paulo\source\repos\GSI47543\GSI47543.DB\obj\Release\net6.0\GSI47543.DB.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\GSI47543\GSI47543.DB\obj\Release\net6.0\GSI47543.DB.dll
+C:\Users\paulo\source\repos\GSI47543\GSI47543.DB\obj\Release\net6.0\refint\GSI47543.DB.dll
+C:\Users\paulo\source\repos\GSI47543\GSI47543.DB\obj\Release\net6.0\GSI47543.DB.pdb
+C:\Users\paulo\source\repos\GSI47543\GSI47543.DB\obj\Release\net6.0\ref\GSI47543.DB.dll

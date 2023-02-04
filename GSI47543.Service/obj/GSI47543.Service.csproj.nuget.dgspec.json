@@ -27,7 +27,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\paulo\\source\\repos\\GSI47543\\GSI47543.AD\\GSI47543.AD.csproj": {
+                "projectPath": "C:\\Users\\paulo\\source\\repos\\GSI47543\\GSI47543.AD\\GSI47543.AD.csproj"
+              },
+              "C:\\Users\\paulo\\source\\repos\\GSI47543\\GSI47543.DB\\GSI47543.DB.csproj": {
+                "projectPath": "C:\\Users\\paulo\\source\\repos\\GSI47543\\GSI47543.DB\\GSI47543.DB.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
